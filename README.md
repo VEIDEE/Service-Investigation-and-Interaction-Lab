@@ -1,6 +1,3 @@
-# Service-Investigation-and-Interaction-Lab
-
-
 # Service Investigation and Interaction Lab
 
 ## Overview
