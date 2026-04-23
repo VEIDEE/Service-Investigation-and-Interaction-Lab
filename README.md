@@ -61,11 +61,11 @@ The objective was to analyze the service behavior using multiple techniques and 
 
 <img src="screenshots/nmap-5040-aggressive.png" width="700"/>
 
-*Figure 1: Deep scan showing port 5040 open and unidentified*
+Deep scan showing port 5040 open and unidentified*
 
 <img src="screenshots/nc-5040-http-test.png" width="700"/>
 
-*Figure 2: Manual interaction attempt with no response*
+Manual interaction attempt with no response*
 
 ---
 
