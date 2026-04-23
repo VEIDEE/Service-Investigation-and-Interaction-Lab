@@ -59,7 +59,7 @@ The objective was to analyze the service behavior using multiple techniques and 
 
 ## Example Output
 
-<img src="screenshots/nmap-5040-deep.png" width="700"/>
+<img src="screenshots/nmap-5040-aggressive.png" width="700"/>
 
 *Figure 1: Deep scan showing port 5040 open and unidentified*
 
